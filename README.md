@@ -1,1 +1,1 @@
-this is my first project on fastapi
+I built my first project using FastAPI, a modern and fast Python web framework. It's a simple Todo Web App where users can add, view, and manage their daily tasks. This project helped me understand the basics of building REST APIs, handling routes, and working with data in Python. It was a great hands-on experience to get started with backend web development using FastAPI.
